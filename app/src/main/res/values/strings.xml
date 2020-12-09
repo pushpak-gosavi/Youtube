@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Youtube</string>
+    <string name="str_edtURL">Please pest the video URL here.</string>
+    <string name="str_sendUrl">Play the video</string>
+</resources>
